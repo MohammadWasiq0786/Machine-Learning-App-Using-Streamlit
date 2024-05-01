@@ -1,4 +1,10 @@
-# Machine-Learning-App-Using-Streamlit
+# Machine Learning App Using Streamlit
+
+![img1](https://github.com/MohammadWasiq0786/Machine-Learning-App-Using-Streamlit/blob/main/img_1.png)
+
+![img1](https://github.com/MohammadWasiq0786/Machine-Learning-App-Using-Streamlit/blob/main/img_2.png)
+
+# How To Run
 
 ## To Create Virtual Environment
 
@@ -30,10 +36,5 @@ pip freeze > requirements.txt
 ## Run the Streamlit App
 ```bash
 streamlit run app.py
-```
-
-<center> <h3> OR </h3> </center>
-```bash
-streamlit run main.py
 ```
 
